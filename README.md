@@ -10,6 +10,7 @@
 - 파일 정보 및 목록 (File Manifest)
 
 - 저작권 및 사용권 정보 (Copyright / End User License)
+
 MIT License
 
 Copyright (c) 2019 santa0613
